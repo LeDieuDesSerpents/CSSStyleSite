@@ -1,0 +1,61 @@
+/**TAG SELECTORS**/
+
+body{
+    background-color: #1A5F7A;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.top-container{
+    background-color: #AEFEFF;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+}
+
+.bottom-container{
+}
+
+h1{
+    width: 10%;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;  
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+span{
+    color: green;
+}
+
+.top-cloud{
+   position: absolute;
+   right: 300px;
+   top: 50px;
+}
+
+.bottom-cloud{
+   position: absolute;
+   left: 300px;
+   right: 50px;
+}
+
+ol{
+    display: inline-block;
+    text-align: left;
+}
+
+/**CLASS SELECTORS**/
+
+
+
+/**ID SELECTORS**/
